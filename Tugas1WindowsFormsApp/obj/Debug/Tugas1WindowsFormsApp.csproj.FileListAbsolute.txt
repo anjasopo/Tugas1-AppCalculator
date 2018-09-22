@@ -1,0 +1,10 @@
+H:\Anjas\Kuliah\SEMESTER3\PEMROGRAMAN LANJUT\Rumah\Lab1\CalculatorApp\Tugas1WindowsFormsApp\bin\Debug\Tugas1WindowsFormsApp.exe.config
+H:\Anjas\Kuliah\SEMESTER3\PEMROGRAMAN LANJUT\Rumah\Lab1\CalculatorApp\Tugas1WindowsFormsApp\bin\Debug\Tugas1WindowsFormsApp.exe
+H:\Anjas\Kuliah\SEMESTER3\PEMROGRAMAN LANJUT\Rumah\Lab1\CalculatorApp\Tugas1WindowsFormsApp\bin\Debug\Tugas1WindowsFormsApp.pdb
+H:\Anjas\Kuliah\SEMESTER3\PEMROGRAMAN LANJUT\Rumah\Lab1\CalculatorApp\Tugas1WindowsFormsApp\obj\Debug\Tugas1WindowsFormsApp.Form1.resources
+H:\Anjas\Kuliah\SEMESTER3\PEMROGRAMAN LANJUT\Rumah\Lab1\CalculatorApp\Tugas1WindowsFormsApp\obj\Debug\Tugas1WindowsFormsApp.Properties.Resources.resources
+H:\Anjas\Kuliah\SEMESTER3\PEMROGRAMAN LANJUT\Rumah\Lab1\CalculatorApp\Tugas1WindowsFormsApp\obj\Debug\Tugas1WindowsFormsApp.csproj.GenerateResource.Cache
+H:\Anjas\Kuliah\SEMESTER3\PEMROGRAMAN LANJUT\Rumah\Lab1\CalculatorApp\Tugas1WindowsFormsApp\obj\Debug\Tugas1WindowsFormsApp.csproj.CoreCompileInputs.cache
+H:\Anjas\Kuliah\SEMESTER3\PEMROGRAMAN LANJUT\Rumah\Lab1\CalculatorApp\Tugas1WindowsFormsApp\obj\Debug\Tugas1WindowsFormsApp.exe
+H:\Anjas\Kuliah\SEMESTER3\PEMROGRAMAN LANJUT\Rumah\Lab1\CalculatorApp\Tugas1WindowsFormsApp\obj\Debug\Tugas1WindowsFormsApp.pdb
+H:\Anjas\Kuliah\SEMESTER3\PEMROGRAMAN LANJUT\Rumah\Lab1\CalculatorApp\Tugas1WindowsFormsApp\obj\Debug\Tugas1WindowsFormsApp.csprojResolveAssemblyReference.cache
